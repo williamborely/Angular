@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+i {
+    margin-right: 10px;
+}
+
+.edit {
+    color: #7825b5;
+}
+
+.delete{
+    color: #dc6666;
+}
+
+td > img {
+    vertical-align: middle;
+}
